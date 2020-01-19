@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.control.ListView?>
+<?import javafx.scene.control.RadioButton?>
+<?import javafx.scene.control.ToggleGroup?>
+<?import javafx.scene.layout.ColumnConstraints?>
+<?import javafx.scene.layout.GridPane?>
+<?import javafx.scene.layout.HBox?>
+<?import javafx.scene.layout.RowConstraints?>
+
+<GridPane fx:id="gridPane" maxHeight="-Infinity" maxWidth="-Infinity" minHeight="-Infinity" minWidth="-Infinity" prefHeight="400.0" prefWidth="600.0" xmlns="http://javafx.com/javafx/8.0.221" xmlns:fx="http://javafx.com/fxml/1" fx:controller="at.michaelkoenig.labor06.AppController">
+  <columnConstraints>
+      <ColumnConstraints hgrow="SOMETIMES" minWidth="10.0" prefWidth="100.0" />
+    <ColumnConstraints hgrow="SOMETIMES" minWidth="10.0" prefWidth="100.0" />
+    <ColumnConstraints hgrow="SOMETIMES" minWidth="10.0" prefWidth="100.0" />
+  </columnConstraints>
+  <rowConstraints>
+    <RowConstraints maxHeight="114.0" minHeight="0.0" prefHeight="43.0" vgrow="SOMETIMES" />
+    <RowConstraints maxHeight="267.0" minHeight="0.0" prefHeight="44.0" vgrow="SOMETIMES" />
+    <RowConstraints maxHeight="348.0" minHeight="10.0" prefHeight="307.0" vgrow="SOMETIMES" />
+  </rowConstraints>
+   <children>
+      <RadioButton fx:id="radKlasse" mnemonicParsing="false" selected="true" text="Nach Klasse" GridPane.halignment="CENTER" GridPane.valignment="CENTER">
+         <toggleGroup>
+            <ToggleGroup fx:id="grpFilter" />
+         </toggleGroup>
+      </RadioButton>
+      <RadioButton fx:id="radGeschlecht" mnemonicParsing="false" text="Nach Geschlecht" toggleGroup="$grpFilter" GridPane.columnIndex="1" GridPane.halignment="CENTER" GridPane.valignment="CENTER" />
+      <RadioButton fx:id="radSchuelerzahlen" mnemonicParsing="false" text="Klassen mit Schülerzahlen" toggleGroup="$grpFilter" GridPane.columnIndex="2" GridPane.halignment="CENTER" GridPane.valignment="CENTER" />
+      <ListView fx:id="listview" prefHeight="200.0" prefWidth="200.0" GridPane.columnSpan="2147483647" GridPane.rowIndex="2" />
+      <HBox fx:id="hbox" prefHeight="100.0" prefWidth="200.0" GridPane.columnIndex="1" GridPane.rowIndex="1" />
+   </children>
+</GridPane>
