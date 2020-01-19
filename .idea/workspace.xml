@@ -1,7 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="96aa0483-3089-41a3-8add-8778167626de" name="Default Changelist" comment="" />
+    <list default="true" id="96aa0483-3089-41a3-8add-8778167626de" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/at/michaelkoenig/labor06/App.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/at/michaelkoenig/labor06/App.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/at/michaelkoenig/labor06/AppController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/at/michaelkoenig/labor06/AppController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/at/michaelkoenig/labor06/App.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/at/michaelkoenig/labor06/App.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/at/michaelkoenig/labor06/App.fxml" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/at/michaelkoenig/labor06/App.fxml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/at/michaelkoenig/labor06/AppController.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/at/michaelkoenig/labor06/AppController.class" afterDir="false" />
+    </list>
     <ignored path="$PROJECT_DIR$/target/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -9,21 +17,83 @@
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="DefaultGradleProjectSettings">
+    <option name="testRunner" value="GRADLE" />
+    <option name="delegatedBuild" value="true" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/at/michaelkoenig/labor06/App.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="196">
+              <caret line="36" column="53" lean-forward="true" selection-start-line="36" selection-start-column="53" selection-end-line="36" selection-end-column="53" />
+              <folding>
+                <element signature="e#872#873#0" expanded="true" />
+                <element signature="e#898#899#0" expanded="true" />
+                <element signature="e#948#949#0" expanded="true" />
+                <element signature="e#977#978#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/at/michaelkoenig/labor06/SchuelerDAO.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-486">
+              <caret line="60" column="78" selection-start-line="60" selection-start-column="65" selection-end-line="60" selection-end-column="78" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/main/java/at/michaelkoenig/labor06/AppController.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="138">
+              <caret line="43" column="50" lean-forward="true" selection-start-line="43" selection-start-column="50" selection-end-line="43" selection-end-column="50" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/resources/at/michaelkoenig/labor06/App.fxml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="327">
+              <caret line="32" column="11" selection-start-line="32" selection-start-column="11" selection-end-line="32" selection-end-column="11" />
+            </state>
+          </provider>
+          <provider editor-type-id="JavaFX-Scene-Builder" />
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>setup</find>
+      <find>appcon</find>
+      <find>getklass</find>
+      <find>getGeschlecht</find>
+    </findStrings>
+  </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/connection.properties" />
+        <option value="$PROJECT_DIR$/src/main/java/at/michaelkoenig/labor06/App.java" />
+        <option value="$PROJECT_DIR$/src/main/resources/at/michaelkoenig/labor06/App.fxml" />
+        <option value="$PROJECT_DIR$/src/main/java/at/michaelkoenig/labor06/AppController.java" />
+      </list>
+    </option>
   </component>
   <component name="MavenImportPreferences">
     <option name="importingSettings">
       <MavenImportingSettings>
         <option name="importAutomatically" value="true" />
       </MavenImportingSettings>
-    </option>
-  </component>
-  <component name="ProjectConfigurationFiles">
-    <option name="files">
-      <list>
-        <option value="$PROJECT_DIR$/.idea/vcs.xml" />
-      </list>
     </option>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
@@ -34,6 +104,132 @@
   </component>
   <component name="ProjectId" id="1WIylDNwRw5sgrV1A2EZwiBBeLy" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope">
+        <subPane subId="Scope 'Tests'; set:Tests; class com.intellij.psi.search.scope.TestsScope">
+          <expand>
+            <path>
+              <item name="fx-test-fxml" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
+              <item name="fx-test-fxml" type="2674bda8:ScopeViewTreeModel$GroupNode" />
+            </path>
+            <path>
+              <item name="fx-test-fxml" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
+              <item name="fx-test-fxml" type="2674bda8:ScopeViewTreeModel$GroupNode" />
+              <item name="src" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+            </path>
+            <path>
+              <item name="fx-test-fxml" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
+              <item name="fx-test-fxml" type="2674bda8:ScopeViewTreeModel$GroupNode" />
+              <item name="src" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="test" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="PackagesPane" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="fx-test-fxml" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Labor_06_Neu" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="fx-test-fxml" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Labor_06_Neu" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="fx-test-fxml" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Labor_06_Neu" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="fx-test-fxml" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Labor_06_Neu" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="fx-test-fxml" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Labor_06_Neu" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="at" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="fx-test-fxml" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Labor_06_Neu" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="at" type="462c0819:PsiDirectoryNode" />
+              <item name="michaelkoenig" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="fx-test-fxml" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Labor_06_Neu" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="at" type="462c0819:PsiDirectoryNode" />
+              <item name="michaelkoenig" type="462c0819:PsiDirectoryNode" />
+              <item name="labor06" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="fx-test-fxml" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Labor_06_Neu" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="resources" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="fx-test-fxml" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Labor_06_Neu" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="resources" type="462c0819:PsiDirectoryNode" />
+              <item name="at" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="fx-test-fxml" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Labor_06_Neu" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="resources" type="462c0819:PsiDirectoryNode" />
+              <item name="at" type="462c0819:PsiDirectoryNode" />
+              <item name="michaelkoenig" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="fx-test-fxml" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Labor_06_Neu" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="resources" type="462c0819:PsiDirectoryNode" />
+              <item name="at" type="462c0819:PsiDirectoryNode" />
+              <item name="michaelkoenig" type="462c0819:PsiDirectoryNode" />
+              <item name="labor06" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="fx-test-fxml" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Labor_06_Neu" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="true" />
@@ -71,7 +267,20 @@
       </list>
     </option>
   </component>
-  <component name="RunManager">
+  <component name="RunManager" selected="Application.App">
+    <configuration name="App" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="at.michaelkoenig.labor06.App" />
+      <module name="fx-test-fxml" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="at.michaelkoenig.labor06.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="at.michaelkoenig.labor06.Main" />
       <module name="fx-test-fxml" />
@@ -87,6 +296,7 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.App" />
         <item itemvalue="Application.Main" />
       </list>
     </recent_temporary>
@@ -115,33 +325,35 @@
       <updated>1578851551767</updated>
       <workItem from="1578851555600" duration="550000" />
       <workItem from="1578925929087" duration="537000" />
-      <workItem from="1579440471589" duration="156000" />
+      <workItem from="1579440471589" duration="5033000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="156000" />
+    <option name="totallyTimeSpent" value="5033000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1066" extended-state="6" />
+    <editor active="true" />
     <layout>
       <window_info id="Designer" />
       <window_info id="Image Layers" />
       <window_info id="Capture Tool" />
       <window_info id="UI Designer" />
       <window_info id="Favorites" side_tool="true" />
-      <window_info content_ui="combo" id="Project" order="0" weight="0.25" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.1705757" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info anchor="bottom" id="Terminal" />
+      <window_info anchor="bottom" id="Terminal" weight="0.3289183" />
       <window_info anchor="bottom" id="Docker" show_stripe_button="false" />
       <window_info anchor="bottom" id="Event Log" side_tool="true" />
+      <window_info anchor="bottom" id="Messages" weight="0.3289183" />
       <window_info anchor="bottom" id="Saros" side_tool="true" />
       <window_info anchor="bottom" id="Database Changes" />
       <window_info anchor="bottom" id="Version Control" />
       <window_info anchor="bottom" id="Floobits" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.32119206" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -149,6 +361,7 @@
       <window_info anchor="right" id="Maven" />
       <window_info anchor="right" id="Palette" />
       <window_info anchor="right" id="Capture Analysis" />
+      <window_info anchor="right" x="0" y="0" width="434" height="866" id="Documentation" side_tool="true" weight="0.32995737" />
       <window_info anchor="right" id="Database" />
       <window_info anchor="right" id="Palette&#9;" />
       <window_info anchor="right" id="Theme Preview" />
@@ -189,6 +402,75 @@
       <screen x="0" y="0" width="2560" height="1040" />
     </state>
     <state x="1299" y="97" key="SettingsEditor/0.0.2560.1040@0.0.2560.1040" timestamp="1578852007849" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/connection.properties">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="52">
+          <caret line="2" column="20" selection-start-line="2" selection-start-column="20" selection-end-line="2" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/at/michaelkoenig/labor06/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="234">
+          <caret line="15" column="4" lean-forward="true" selection-start-line="15" selection-start-column="4" selection-end-line="15" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/at/michaelkoenig/labor06/Schueler.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="203">
+          <caret line="69" column="26" lean-forward="true" selection-start-line="69" selection-start-column="26" selection-end-line="69" selection-end-column="26" />
+          <folding>
+            <element signature="e#1726#1727#0" expanded="true" />
+            <element signature="e#1755#1756#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/at/michaelkoenig/labor06/SchuelerDAO.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-486">
+          <caret line="60" column="78" selection-start-line="60" selection-start-column="65" selection-end-line="60" selection-end-column="78" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/at/michaelkoenig/labor06/App.fxml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="327">
+          <caret line="32" column="11" selection-start-line="32" selection-start-column="11" selection-end-line="32" selection-end-column="11" />
+        </state>
+      </provider>
+      <provider editor-type-id="JavaFX-Scene-Builder" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/at/michaelkoenig/labor06/App.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="196">
+          <caret line="36" column="53" lean-forward="true" selection-start-line="36" selection-start-column="53" selection-end-line="36" selection-end-column="53" />
+          <folding>
+            <element signature="e#872#873#0" expanded="true" />
+            <element signature="e#898#899#0" expanded="true" />
+            <element signature="e#948#949#0" expanded="true" />
+            <element signature="e#977#978#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/openjfx/javafx-fxml/13/javafx-fxml-13-win.jar!/javafx/fxml/Initializable.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="182">
+          <caret line="8" column="1" lean-forward="true" selection-start-line="8" selection-start-column="1" selection-end-line="8" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/at/michaelkoenig/labor06/AppController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="138">
+          <caret line="43" column="50" lean-forward="true" selection-start-line="43" selection-start-column="50" selection-end-line="43" selection-end-column="50" />
+        </state>
+      </provider>
+    </entry>
   </component>
   <component name="masterDetails">
     <states>
@@ -239,10 +521,12 @@
       </state>
       <state key="ModuleStructureConfigurable.UI">
         <settings>
+          <last-edited>fx-test-fxml</last-edited>
           <splitter-proportions>
             <option name="proportions">
               <list>
                 <option value="0.2" />
+                <option value="0.6" />
               </list>
             </option>
           </splitter-proportions>
